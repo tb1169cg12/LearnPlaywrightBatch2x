@@ -2,3 +2,13 @@ var a=10
 var $=20
 var _a=10
 console.log(a,$,_a)
+
+var name ='amit'
+var Name ='pramod'
+console.log(name,Name)
+
+var pramod_dutta ='hi'
+var pramod$duta ='bye'
+var pramod123 ='yo'
+
+console.log(pramod$duta,pramod_dutta,pramod123)

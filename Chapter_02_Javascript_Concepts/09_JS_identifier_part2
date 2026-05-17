@@ -1,0 +1,15 @@
+var name ="pramod";
+var name= 'pramod';
+
+// Case Style              | Example              | Usage in JS
+// ------------------------|----------------------|--------------------------------
+// camelCase               | userName             | Variables, functions (standard)
+// PascalCase              | UserName             | Classes, constructors
+// snake_case              | user_name            | Constants (sometimes), configs
+// SCREAMING_SNAKE_CASE    | USER_NAME            | True constants (best practice)
+// kebab-case              | user-name            | NOT for identifiers! CSS/HTML/URLs
+// Train-Case              | User-Name            | NOT for identifiers! HTTP headers
+// lowercase               | username             | Simple one-word identifiers
+// UPPERCASE               | USERNAME             | Short constants only
+// Hungarian (strName)      | strUserName          | Obsolete, avoid in modern JS
+// ============================================================
