@@ -24,3 +24,18 @@ console.log(multi);              // Output: Line 1 (newline) Line 2
 
 // Simple rule: single and double quotes are the same for basic strings
 // Use backticks when you need to inject variables or write multi-line text
+// Playwright 
+const rowIndex =3;
+const columnName ="email";
+await page.locator(`[data-row="${rowIndex}"] [data-column="${columnName}"]`).click();
+
+//logs 
+const testName = 'Login Test';
+const status = 'failed ';
+const duration = 1200;
+console.log(`Test: ${testName}, Status: ${status}, Duration: ${duration}ms`);
+// Output: Test: Login Test, Status: failed, Duration: 1200ms
+
+const testCase = 'checkout_flow';
+const timestamp  = date.now();
+await page.screenshot({ path: `screenshots/${testCase}_${timestamp}.png` });
