@@ -161,9 +161,11 @@ console.log("0x10" === 16);     // false (strict)
 console.log("\n=== typeof null BUG ===");
 
 console.log(typeof null);         // "object" (BUG! should be "null")
+console.log(typeof undefined);    // "undefined"
 console.log(null === null);       // true
 console.log(null == null);        // true
-
+console.log(null === undefined);   // false (strict equality says they don't match)
+console.log(null === "object");    // ReferenceError: object is not defined (strict equality doesn't match anything)
 // Check for null correctly:
 let x = null;
 console.log(x === null);          // true
