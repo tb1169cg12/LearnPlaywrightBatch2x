@@ -70,8 +70,36 @@ LearnPlaywrightBatch2x/
 │   ├── 51_API_IF_ELSE.js
 │   └── 52_interview_questions.js
 │
-└── Chapter_08_switch_statement/          # Switch Statements
-    └── 58_switch.js
+├── Chapter_08_switch_statement/          # Switch Statements
+│   ├── 59_switch.js
+│   ├── 60_no_break.js
+│   ├── 61_default.js
+│   ├── 62_real_time_ex.js
+│   ├── 63_Switch_group.js
+│   ├── 64_IQ.js
+│   ├── 65_IQ2.js
+│   ├── 66_IQ3.js
+│   └── 67_IQ4.js
+│
+├── Chapter_09_user_input/                # User Input
+│   ├── 68_User_input.js
+│   ├── 69_Node_readline.js
+│   └── 70_Promt_sync.js
+│
+└── Chapter_10_Loops/                     # Loops
+    ├── 71_For_loop.js
+    ├── 71_for_loops.js
+    ├── 72_for_loop.js
+    ├── 73_for_loop.js
+    ├── 74_IQ.js
+    ├── 75_for_of_in_each.js
+    ├── 76_while_loop.js
+    ├── 77_do_while.js
+    ├── 78_do_while.js
+    ├── 79_iq.js
+    ├── 80_IQ.js
+    ├── 81_triangle_classifier.js
+    └── 82_practice_question.js
 ```
 
 ## Topics Covered
@@ -83,7 +111,9 @@ LearnPlaywrightBatch2x/
 - **Chapter 5:** Literals & Data Types (`null`, `undefined`, strings, numbers, template literals)
 - **Chapter 6:** Operators (Assignment, Arithmetic, Comparison, Loose vs Strict, Ternary, `typeof`, Increment/Decrement)
 - **Chapter 7:** Conditional Statements (`if`, `else if`, `else`)
-- **Chapter 8:** Switch Statements
+- **Chapter 8:** Switch Statements (`switch`, `case`, `break`, `default`, grouping, interview questions)
+- **Chapter 9:** User Input (`readline`, `prompt-sync`)
+- **Chapter 10:** Loops (`for`, `for...of`, `while`, `do...while`, interview questions)
 
 ## How to Run
 
@@ -94,10 +124,6 @@ node Chapter_01_Basics/01_Basics.js
 ```
 
 Or use VS Code Run button / terminal.
-
-## Auto-Commit
-
-This repository includes an auto-commit script (`auto-commit.sh`) that runs every 30 minutes to commit and push changes automatically.
 
 ## Author
 
