@@ -86,20 +86,31 @@ LearnPlaywrightBatch2x/
 │   ├── 69_Node_readline.js
 │   └── 70_Promt_sync.js
 │
-└── Chapter_10_Loops/                     # Loops
-    ├── 71_For_loop.js
-    ├── 71_for_loops.js
-    ├── 72_for_loop.js
-    ├── 73_for_loop.js
-    ├── 74_IQ.js
-    ├── 75_for_of_in_each.js
-    ├── 76_while_loop.js
-    ├── 77_do_while.js
-    ├── 78_do_while.js
-    ├── 79_iq.js
-    ├── 80_IQ.js
-    ├── 81_triangle_classifier.js
-    └── 82_practice_question.js
+├── Chapter_10_Loops/                     # Loops
+│   ├── 71_For_loop.js
+│   ├── 71_for_loops.js
+│   ├── 72_for_loop.js
+│   ├── 73_for_loop.js
+│   ├── 74_IQ.js
+│   ├── 75_for_of_in_each.js
+│   ├── 76_while_loop.js
+│   ├── 77_do_while.js
+│   ├── 78_do_while.js
+│   ├── 79_iq.js
+│   ├── 80_IQ.js
+│   ├── 81_triangle_classifier.js
+│   └── 82_practice_question.js
+│
+└── Chapter_11_arrays/                    # Arrays
+    ├── 83_arrays.js
+    ├── 84_arrays.js
+    ├── 85_access_array.js
+    ├── 86_adding_removing.js
+    ├── 87_deleating_removing.js
+    ├── 88_real_examples.js
+    ├── 89_searching.js
+    ├── 90_iterate_over_elements.js
+    └── 91_transform_Array.js
 ```
 
 ## Topics Covered
@@ -114,6 +125,7 @@ LearnPlaywrightBatch2x/
 - **Chapter 8:** Switch Statements (`switch`, `case`, `break`, `default`, grouping, interview questions)
 - **Chapter 9:** User Input (`readline`, `prompt-sync`)
 - **Chapter 10:** Loops (`for`, `for...of`, `while`, `do...while`, interview questions)
+- **Chapter 11:** Arrays (creating, accessing, adding/removing elements, searching, iterating, transforming)
 
 ## How to Run
 
