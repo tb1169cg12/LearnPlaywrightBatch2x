@@ -101,16 +101,27 @@ LearnPlaywrightBatch2x/
 │   ├── 81_triangle_classifier.js
 │   └── 82_practice_question.js
 │
-└── Chapter_11_arrays/                    # Arrays
-    ├── 83_arrays.js
-    ├── 84_arrays.js
-    ├── 85_access_array.js
-    ├── 86_adding_removing.js
-    ├── 87_deleating_removing.js
-    ├── 88_real_examples.js
-    ├── 89_searching.js
-    ├── 90_iterate_over_elements.js
-    └── 91_transform_Array.js
+├── Chapter_11_arrays/                    # Arrays
+│   ├── 83_arrays.js
+│   ├── 84_arrays.js
+│   ├── 85_access_array.js
+│   ├── 86_adding_removing.js
+│   ├── 87_deleating_removing.js
+│   ├── 88_real_examples.js
+│   ├── 89_searching.js
+│   ├── 90_iterate_over_elements.js
+│   ├── 91_transform_Array.js
+│   ├── 92_arrays.js
+│   ├── 93_slicing.js
+│   ├── 94_concatinate_aray.js
+│   └── 95_array_checking.js
+│
+└── Chapter_12_functions/                 # Functions
+    ├── 96_functions.js
+    ├── 97_type1_noParameter_noReturnType.js
+    ├── 98_type2_noParameter_noReturn.js
+    ├── 99_type3_noParameter_withReturnType.js
+    └── 100_type4_withParameter_withReturn.js
 ```
 
 ## Topics Covered
@@ -125,7 +136,8 @@ LearnPlaywrightBatch2x/
 - **Chapter 8:** Switch Statements (`switch`, `case`, `break`, `default`, grouping, interview questions)
 - **Chapter 9:** User Input (`readline`, `prompt-sync`)
 - **Chapter 10:** Loops (`for`, `for...of`, `while`, `do...while`, interview questions)
-- **Chapter 11:** Arrays (creating, accessing, adding/removing elements, searching, iterating, transforming)
+- **Chapter 11:** Arrays (creating, accessing, adding/removing elements, searching, iterating, transforming, sorting, slicing, concatenating)
+- **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types)
 
 ## How to Run
 
