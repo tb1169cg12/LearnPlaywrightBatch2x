@@ -1,6 +1,32 @@
 //types of functions -
-//1.basic function -no parameter no argument
+//1.basic function -no parameter no return type
 
+/*
+Yeh woh function hai jise chalne ke liye bahar se koi maal 
+(input) nahi chahiye, aur yeh apna kaam khud hi andar khatam kar leta hai,
+ bahar kuch wapas (output) nahi phenkta.
+Desi Example:
+
+Ghar ka Doorbell 🔔. Button dabao, woh bajega aur baat khatam. 
+Use na kuch dena hai, na woh badle mein kuch laakar dega. */
+
+// Na koi parameter hai andar, na return keyword hai
+function sayGoodMorning() {
+    console.log("Good Morning Bhai!");
+}
+// Chalane ka tarika: Khali brackets ke sath call karo
+sayGoodMorning(); 
+// Output: Good Morning Bhai! Mast Saturday hai aaj.
+
+
+
+
+
+
+
+
+
+console.log("----------")
 function  greet(){    //no argument 
     console.log("hi");
                         //no return type
@@ -8,6 +34,16 @@ function  greet(){    //no argument
 greet()
 let a= greet();   ///we are using this to print value
 console.log(a)  //value of a will be undefined
+
+
+
+
+
+
+
+
+
+
 
 /* ignore , just for practice
 console.log("---------------")
@@ -27,4 +63,5 @@ add(1,1) //argument 1,1
 let sum = add(1,1) //we are using these to return value
 console.log(sum)
 
-console.log("---------------")*/
+console.log("---------------")
+*/

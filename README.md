@@ -119,9 +119,13 @@ LearnPlaywrightBatch2x/
 └── Chapter_12_functions/                 # Functions
     ├── 96_functions.js
     ├── 97_type1_noParameter_noReturnType.js
-    ├── 98_type2_noParameter_noReturn.js
+    ├── 98_type2_withParameter_noReturn.js
     ├── 99_type3_noParameter_withReturnType.js
-    └── 100_type4_withParameter_withReturn.js
+    ├── 100_type4_withParameter_withReturn.js
+    ├── 101_template_literal.js
+    ├── 102_fn_expression.js
+    ├── 103_arrow_function.js
+    └── 104_arrow_fn2.js
 ```
 
 ## Topics Covered
@@ -137,7 +141,7 @@ LearnPlaywrightBatch2x/
 - **Chapter 9:** User Input (`readline`, `prompt-sync`)
 - **Chapter 10:** Loops (`for`, `for...of`, `while`, `do...while`, interview questions)
 - **Chapter 11:** Arrays (creating, accessing, adding/removing elements, searching, iterating, transforming, sorting, slicing, concatenating)
-- **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types)
+- **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types, template literals, function expressions, arrow functions)
 
 ## How to Run
 
