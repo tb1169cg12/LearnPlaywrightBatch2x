@@ -125,7 +125,18 @@ LearnPlaywrightBatch2x/
     ├── 101_template_literal.js
     ├── 102_fn_expression.js
     ├── 103_arrow_function.js
-    └── 104_arrow_fn2.js
+    ├── 104_arrow_fn2.js
+    ├── 105_arrowfn_realworld.js
+    ├── 106_IIFE_function.js
+    ├── 107_default_param.js
+    ├── 108_IQ.js
+    ├── 109_rest_param_fn.js
+    ├── 110_IQ.js
+    ├── 111_spread_IQ.js
+    ├── 112_scope_IQ.js
+    ├── 113_closure.js
+    ├── 114_higher_order_fn.js
+    └── 115_pure_function.js
 ```
 
 ## Topics Covered
@@ -141,7 +152,7 @@ LearnPlaywrightBatch2x/
 - **Chapter 9:** User Input (`readline`, `prompt-sync`)
 - **Chapter 10:** Loops (`for`, `for...of`, `while`, `do...while`, interview questions)
 - **Chapter 11:** Arrays (creating, accessing, adding/removing elements, searching, iterating, transforming, sorting, slicing, concatenating)
-- **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types, template literals, function expressions, arrow functions)
+- **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread operator, scope, closures, higher-order functions, pure vs impure functions)
 
 ## How to Run
 
