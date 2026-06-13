@@ -137,6 +137,12 @@ LearnPlaywrightBatch2x/
     ├── 113_closure.js
     ├── 114_higher_order_fn.js
     └── 115_pure_function.js
+
+├── Chapter_13_String/                    # Strings
+    ├── 116_basics_string.js
+    ├── 117_String_Properties.js
+    ├── 118_search_chk.js
+    └── 119_SubString.js
 ```
 
 ## Topics Covered
@@ -153,6 +159,7 @@ LearnPlaywrightBatch2x/
 - **Chapter 10:** Loops (`for`, `for...of`, `while`, `do...while`, interview questions)
 - **Chapter 11:** Arrays (creating, accessing, adding/removing elements, searching, iterating, transforming, sorting, slicing, concatenating)
 - **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread operator, scope, closures, higher-order functions, pure vs impure functions)
+- **Chapter 13:** Strings (basics, properties, searching, substrings)
 
 ## How to Run
 
