@@ -6,3 +6,6 @@ let testnumber=str.slice(-3);
 console.log(testnumber)
 
 console.log(str.includes("pass"))//case sensitive
+
+console.log(str.substring(6,10))
+str.at(0)

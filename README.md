@@ -142,7 +142,9 @@ LearnPlaywrightBatch2x/
     ├── 116_basics_string.js
     ├── 117_String_Properties.js
     ├── 118_search_chk.js
-    └── 119_SubString.js
+    ├── 119_SubString.js
+    ├── 120_Transform_str.js
+    └── 121_STRING_CONVERSION.JS
 ```
 
 ## Topics Covered
