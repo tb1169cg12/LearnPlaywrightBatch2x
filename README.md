@@ -144,7 +144,9 @@ LearnPlaywrightBatch2x/
     ├── 118_search_chk.js
     ├── 119_SubString.js
     ├── 120_Transform_str.js
-    └── 121_STRING_CONVERSION.JS
+    ├── 121_STRING_CONVERSION.JS
+    ├── 122_STRING_ALL_METHODS_CHEATSHEET.js
+    └── STRING_METHODS_CHEATSHEET.md
 ```
 
 ## Topics Covered
