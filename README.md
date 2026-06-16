@@ -146,7 +146,23 @@ LearnPlaywrightBatch2x/
     ├── 120_Transform_str.js
     ├── 121_STRING_CONVERSION.JS
     ├── 122_STRING_ALL_METHODS_CHEATSHEET.js
+    ├── 123_IQ_string_reverse.js
     └── STRING_METHODS_CHEATSHEET.md
+
+├── Chapter_14_objects/                    # Objects
+    ├── 124_objects_basics.js
+    ├── 125_objects2.js
+    ├── 126_object_creation.js
+    ├── 127_real_eamples.js
+    ├── 128_primitve_vs_refrence.js
+    ├── 129_new_objects.js
+    ├── 130_IQ.js
+    ├── 131_object_with_fn.js
+    ├── 132_object_deconstruction.js
+    ├── 133_spread.js
+    ├── 134_objects_gwt_set.js
+    ├── 135_IQ.js
+    └── 136_objects_in_real_life.js
 ```
 
 ## Topics Covered
@@ -163,7 +179,8 @@ LearnPlaywrightBatch2x/
 - **Chapter 10:** Loops (`for`, `for...of`, `while`, `do...while`, interview questions)
 - **Chapter 11:** Arrays (creating, accessing, adding/removing elements, searching, iterating, transforming, sorting, slicing, concatenating)
 - **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread operator, scope, closures, higher-order functions, pure vs impure functions)
-- **Chapter 13:** Strings (basics, properties, searching, substrings)
+- **Chapter 13:** Strings (basics, properties, searching, substrings, transformation, conversion, all methods cheatsheet, reverse string interview questions)
+- **Chapter 14:** Objects (basics, key-value pairs, object creation, dot vs bracket notation, copy by reference, primitive vs reference, dynamic property add/delete, functions in objects, destructuring, spread operator, getters/setters, keys/values/entries, iteration, real-life examples)
 
 ## How to Run
 
