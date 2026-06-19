@@ -163,6 +163,13 @@ LearnPlaywrightBatch2x/
     ├── 134_objects_gwt_set.js
     ├── 135_IQ.js
     └── 136_objects_in_real_life.js
+
+├── Chapter_16_2d_array/                   # 2D Arrays
+    ├── 137_2D_Array.js
+    ├── 138_2d.js
+    ├── 139_real_example.js
+    ├── 140_array_function.js
+    └── 141_IQ_rightpyramid.js
 ```
 
 ## Topics Covered
@@ -181,6 +188,7 @@ LearnPlaywrightBatch2x/
 - **Chapter 12:** Functions (basic functions, types of functions, parameters, arguments, return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread operator, scope, closures, higher-order functions, pure vs impure functions)
 - **Chapter 13:** Strings (basics, properties, searching, substrings, transformation, conversion, all methods cheatsheet, reverse string interview questions)
 - **Chapter 14:** Objects (basics, key-value pairs, object creation, dot vs bracket notation, copy by reference, primitive vs reference, dynamic property add/delete, functions in objects, destructuring, spread operator, getters/setters, keys/values/entries, iteration, real-life examples)
+- **Chapter 16:** 2D Arrays (matrix creation, row/column access, nested loops, real examples, array methods `map`, `filter`, `find`, `reduce`, `forEach`, right pyramid pattern)
 
 ## How to Run
 
