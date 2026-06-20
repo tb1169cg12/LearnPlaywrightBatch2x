@@ -179,7 +179,8 @@ LearnPlaywrightBatch2x/
     ├── 146_Async_callbacks.js
     ├── 147_sync_callback.js
     ├── 148_callback_hell.js
-    └── 149_callback_parameter.js
+    ├── 149_callback_parameter.js
+    └── 150_cb_return.js
 ```
 
 ## Topics Covered
@@ -199,7 +200,7 @@ LearnPlaywrightBatch2x/
 - **Chapter 13:** Strings (basics, properties, searching, substrings, transformation, conversion, all methods cheatsheet, reverse string interview questions)
 - **Chapter 14:** Objects (basics, key-value pairs, object creation, dot vs bracket notation, copy by reference, primitive vs reference, dynamic property add/delete, functions in objects, destructuring, spread operator, getters/setters, keys/values/entries, iteration, real-life examples)
 - **Chapter 15:** 2D Arrays (matrix creation, row/column access, nested loops, real examples, array methods `map`, `filter`, `find`, `reduce`, `forEach`, right pyramid pattern)
-- **Chapter 16:** Callback Functions (what is callback, anonymous callbacks, named callbacks, arrow callbacks, synchronous vs asynchronous callbacks, `setTimeout`, callback hell, callback parameters)
+- **Chapter 16:** Callback Functions (what is callback, anonymous callbacks, named callbacks, arrow callbacks, synchronous vs asynchronous callbacks, `setTimeout`, callback hell, callback parameters, callback with return values)
 
 ## How to Run
 

@@ -7,3 +7,13 @@ async function openBrowser(callback){
 openBrowser(function(){
     console.log("callback executed after browser opened");
 })
+
+//-------------------------
+function greetTester(name,callback){
+    console.log("welcome,"+ name);
+    callback();
+} 
+greetTester("dev",function(){
+    console.log("lets start testing");
+})
+//--------------
